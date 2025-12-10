@@ -1,4 +1,12 @@
 練習用のファイルです。
 
-このソフトウェアパッケージは、3条項BSDライセンスの下の、再分布および使用が許可されています。
-2022 yuuki terashima
+![test](https://github.com/j3353wuftera/lect4/actions/workflows/test.yml/badge.svg)
+
+足し算
+
+## 必要なソフトウェア
+* Pyhon
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu
